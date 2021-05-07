@@ -1,5 +1,6 @@
 package org.sonnyjava.foodcart;
 
+
 public class Food {
 	
 	private int id;
